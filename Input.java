@@ -12,3 +12,4 @@ class Input {
         // closing the scanner object
         input.close();
     }
+}
